@@ -1,6 +1,4 @@
----
-title: "Bienvenido a mis writeups"
----
+
 
 # Bienvenido a mis writeups
 
