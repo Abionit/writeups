@@ -6,7 +6,7 @@ Haz clic en el título de cada máquina para ver su writeup completo 👇
 
 ---
 
-## 🟢 [Voleur (Medium) – Windows Domain Controller](hackthebox/Voleur.md)
+## 🟢 [Voleur (Medium) – Windows Domain Controller](writeups/hackthebox /Voleur.md)
 Ataque **in-band SQLi (Kerberoasting, DPAPI, WSL pivoting)** con escaladas progresivas hasta `Administrator`.  
 **Técnicas clave:** Kerberos abuse, AD enumeration, DPAPI credential recovery, WSL privilege escalation.  
 **Estado:** ✅ Completado  
