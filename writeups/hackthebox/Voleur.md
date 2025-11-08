@@ -275,9 +275,9 @@ ryan.naylor → svc_ldap → svc_winrm → todd.wolfe → jeremy.combs → svc_b
 
 ## Techniques used:
 
--Kerberos authentication & ticket manipulation
+- Kerberos authentication & ticket manipulation
 
--Targeted Kerberoasting (WriteSPN abuse)
+- Targeted Kerberoasting (WriteSPN abuse)
 
 - Active Directory Recycle Bin
 
