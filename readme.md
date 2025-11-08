@@ -1,18 +1,21 @@
 
+# 🎒 Welcome to My Writeups
 
-# Bienvenido a mis writeups
+Here I publish my writeups organized by category. Start with the section that interests you most.
 
-Aquí publico mis writeups organizados por categoría. Empieza por la sección que te interesa.
+---
 
-## Contents
+## 📚 Contents
 
-- [Bug Bounty PoC](bug-bounty-poc.md)
-- [CTF](ctf.md)
-- [HackTheBox](hackthebox.md)
-- [Offsec](offsec.md)
-- [TryHackMe](tryhackme.md)
-- [VulnHub](vulnhub.md)
-- [PortSwiggerLab](portswiggerlab.md)
-- [About Me](about.md)
+- ![BugBounty](https://img.shields.io/badge/Bug%20Bounty-PoC-blue) **[Bug Bounty PoC](bug-bounty-poc.md)** — Proof-of-concept exploits and responsibly disclosed vulnerabilities.  
+- ![CTF](https://img.shields.io/badge/CTF-Challenges-purple) **[CTF](ctf.md)** — Capture The Flag challenge solutions and notes.  
+- ![HTB](https://img.shields.io/badge/HackTheBox-Writeups-green) **[HackTheBox](hackthebox.md)** — Full walkthroughs of HTB machines (Active Directory, pivots, privilege escalation).  
+- ![Offsec](https://img.shields.io/badge/Offsec-Practice-orange) **[Offsec](offsec.md)** — Offensive security training and lab practice.  
+- ![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-red) **[TryHackMe](tryhackme.md)** — Guided room writeups and practical exercises.  
+- ![VulnHub](https://img.shields.io/badge/VulnHub-VMs-yellow) **[VulnHub](vulnhub.md)** — Virtual machine walkthroughs and exploitation notes.  
+- ![PortSwigger](https://img.shields.io/badge/PortSwigger-Labs-cyan) **[PortSwiggerLab](portswiggerlab.md)** — Web Security Academy labs (XSS, SQLi, XXE, SSTI, file upload, etc.).  
+- ![Info](https://img.shields.io/badge/About-Me-lightgrey) **[About Me](about.md)** — Short bio, contact info, and tools I use.
 
-Para añadir un writeup: crea un archivo Markdown en `writeups/<categoria>/` y añade un enlace en la página de la categoría correspondiente (por ahora lo hacemos manualmente).
+---
+
+
