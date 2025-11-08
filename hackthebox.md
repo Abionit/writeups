@@ -1,3 +1,12 @@
+
+<img width="345" height="146" alt="descarga" src="https://github.com/user-attachments/assets/043ccfc6-1c07-43bd-bb58-d71d51c60e71" />
+
+
+
+
+
+
+
 # 🧠 HackTheBox Labs
 
 Writeups for **Hack The Box** (HTB) machines.  
