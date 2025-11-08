@@ -266,3 +266,31 @@ evil-winrm -i dc.voleur.htb -u administrator -H e656e07c56d831611b577b160b259ad2
 🏆 Root Flag obtained!
 
 <img width="1297" height="603" alt="image" src="https://github.com/user-attachments/assets/51993bae-e7c9-428b-824b-a87afa63e122" />
+
+
+## 🧩 Summary of Exploitation Path
+```bash
+ryan.naylor → svc_ldap → svc_winrm → todd.wolfe → jeremy.combs → svc_backup → Administrator
+```
+
+## Techniques used:
+
+-Kerberos authentication & ticket manipulation
+
+-Targeted Kerberoasting (WriteSPN abuse)
+
+- Active Directory Recycle Bin
+
+- DPAPI credential decryption
+
+- WSL pivoting
+
+- Offline NTDS.dit extraction
+
+## ✅ Machine Status: Owned (Root Access Achieved)
+
+Flags:
+
+user.txt ✅
+
+root.txt ✅
