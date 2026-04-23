@@ -1,27 +1,19 @@
+# PortSwigger Labs
 
+Write-ups for PortSwigger Web Security Academy labs.
 
-<img width="299" height="168" alt="images" src="https://github.com/user-attachments/assets/857ebf34-5424-4958-b5c0-8638a6110f4a" />
+Each note focuses on vulnerability analysis, proof-of-concept reasoning, impact, and remediation awareness.
 
+## Available Write-Ups
 
+### [In-band SQLi UNION-based - XML Entity Encoding WAF Bypass](writeups/portswiggerlab/SQLi-UNION-based.md)
 
+- Vulnerability: in-band UNION-based SQL injection in an XML `storeId` parameter
+- Bypass method: XML entity encoding using Hackvertor
+- Outcome: concatenated username and password extraction, followed by validation through the lab workflow
+- Key techniques: UNION SQL injection, XML entity encoding, single-column concatenation, Burp Repeater validation
+- Status: completed
 
+## Review Focus
 
-
-# 🧪 PortSwigger Labs
-
-Writeups for **PortSwigger Web Security Academy** labs.  
-Each writeup contains step-by-step explanations, PoCs, and screenshots.  
-Click the title to open the full writeup 👇
-
----
-
-## 🟢 [In-band SQLi (UNION-based) — XML entity encoding WAF bypass](writeups/portswiggerlab/SQLi-UNION-based.md)  
-**Short:** SQL Injection (in-band, UNION-based) in an XML `storeId` parameter. Bypassed WAF using XML entity encoding (Hackvertor), concatenated username/password extraction, and login as admin.  
-**Key techniques:** in-band UNION SQLi, XML entity encoding for WAF bypass, single-column concatenation, PoC for Burp Repeater.  
-**Status:** ✅ Completed  
--foto aquí debajo-
-
----
-
-*(More PortSwigger labs coming soon — e.g. XSS reflected, Blind SQLi, File upload, XXE, SSTI, etc.)*
-
+These notes are written to show how a web vulnerability is identified, tested, explained, and documented in a controlled environment.
