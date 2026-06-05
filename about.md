@@ -1,33 +1,32 @@
 # About
 
-Miguel Angel Torres Mercado is a Systems Engineering student from Colombia focused on data analysis, SQL reporting, Python workflows, and security analytics.
+Miguel Angel Torres Mercado is a Systems Engineer from Colombia focused on Data Engineering, Security Operations, SQL, Python, and technical reporting.
 
 ## Technical Focus
 
-- Data analysis with SQL and Python
-- KPI reporting and dashboard communication
-- Security analytics and SOC-style reporting
-- Web security fundamentals and lab-based vulnerability analysis
-- Clear technical documentation for review and interview discussion
+- Data pipelines, validation, quality controls, and analytical modeling
+- AWS-oriented architecture with S3, Glue, PySpark, Athena, and CloudFormation
+- Security analytics, Wazuh detections, MITRE ATT&CK mapping, and alert triage
+- Web security analysis in controlled labs
+- Clear technical documentation and operational reporting
 
-## Current Portfolio Direction
+## Project Areas
 
-My current work is organized around projects that show practical analytical thinking:
+- Subscription data engineering: multi-source integration, quality gates, KPI datasets, and cloud architecture
+- SOC detection engineering: custom Wazuh rules, MITRE mapping, triage, and reporting
+- SOC operational analytics: backlog, severity, response-time, and rule-performance metrics
+- Security write-ups: controlled lab methodology, findings, and remediation context
 
-- Subscription analytics: revenue, retention, churn risk, customer health, and SQL reporting
-- SOC analytics: alert enrichment, triage metrics, detection logic, SLA flags, and dashboarding
-- Security write-ups: controlled lab notes focused on methodology and communication
+## Tools
 
-## Tools And Skills
-
-- Data: SQL, Python, pandas, SQLite
-- Reporting: Streamlit, Markdown reports, CSV outputs, KPI design
-- Security: Burp Suite, OWASP ZAP, PortSwigger Web Security Academy, HackTheBox labs
-- Workflow: GitHub, reproducible scripts, structured documentation
+- Data: Python, pandas, SQL, SQLite, PySpark
+- AWS: S3, Glue, Data Catalog, Athena, CloudFormation, Redshift integration path
+- Security: Wazuh, Burp Suite, OWASP ZAP, PortSwigger Web Security Academy, Hack The Box
+- Delivery: GitHub, automated tests, reproducible scripts, Streamlit, and technical documentation
 
 ## Ethics And Scope
 
-The write-ups in this repository are based on controlled labs, retired machines, or educational environments. They are documented for learning, reporting practice, and technical review.
+The write-ups are based on controlled labs, retired machines, and authorized educational environments. They document methodology and defensive lessons without targeting third-party systems.
 
 ## Contact
 
