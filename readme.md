@@ -1,17 +1,20 @@
 # Security Write-Ups
 
-Structured technical notes from security labs and web security practice.
+Technical notes from controlled security labs and web security practice.
 
 ## Sections
 
-- [HackTheBox Labs](hackthebox.md): retired machine notes focused on methodology, enumeration, privilege escalation, and post-exploitation reasoning.
-- [PortSwigger Labs](portswiggerlab.md): Web Security Academy notes focused on vulnerability analysis, proof-of-concept reasoning, and remediation awareness.
-- [About](about.md): background, technical focus, and contact information.
+- [Hack The Box Labs](hackthebox.md): enumeration, Active Directory, privilege escalation, and post-exploitation analysis in retired machines.
+- [PortSwigger Labs](portswiggerlab.md): vulnerability analysis, proof of concept, impact, and remediation in Web Security Academy environments.
+- [About](about.md): professional focus and contact information.
 
 ## Scope
 
-These notes are for controlled lab environments and educational review only. They are written to document methodology, explain technical reasoning, and improve reporting discipline.
+All activity is limited to controlled labs, retired machines, and authorized educational environments. The documentation focuses on methodology, evidence, defensive context, and reporting quality.
 
-## Portfolio Context
+## Related Work
 
-My current portfolio direction combines data analysis, SQL reporting, Python workflows, and security analytics. The main portfolio profile is available at https://github.com/Abionit.
+- Data Engineering: https://github.com/Abionit/subscription-analytics-lab
+- Wazuh Detection Engineering: https://github.com/Abionit/soc-home-lab/tree/portfolio/wazuh-soc-detection-lab
+- SOC Operational Analytics: https://github.com/Abionit/soc-home-lab/tree/portfolio/soc-home-lab-v2
+- Main profile: https://github.com/Abionit
